@@ -1,0 +1,5 @@
+# 第一次设置
+git remote add hf https://huggingface.co/spaces/ZhiXuan-cod/separate
+
+# 每次更新
+git push hf main
